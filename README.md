@@ -195,9 +195,10 @@ La procédure, la liste des licences spécifiques homologuées, ainsi que les d�
 
 *V.-La licence homologuée ainsi que la description des informations publiques pour lesquelles cette homologation a été accordée sont rendues accessibles en ligne, dans leur version en vigueur, sur le site internet: http://www.data.gouv.fr.*
 
-## “Licence Ouverte”** Etalab
+## La licence Ouverte Etalab
 
-    [*https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf*](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
+- [Téléchargement en PDF](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
+- [Page de présentation](https://www.etalab.gouv.fr/licence-ouverte-open-licence)
 
 ## Matériel de formation sur le portail européen des données** : session sur les licences (en anglais)
 
