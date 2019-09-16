@@ -7,17 +7,12 @@ Ce guide est publié par Etalab sous [licence Ouverte 2.0](LICENCE.txt).
 
 **Sommaire**
 
-[1. Introduction: les principes de libre réutilisation et de gratuité 1](#introduction-les-principes-de-libre-réutilisation-et-de-gratuité)
-
-[2. Pourquoi utiliser des licences de réutilisation ?  1](#pourquoi-utiliser-des-licences-de-réutilisation)
-
-[3. Est-ce obligatoire ? 2](#est-ce-obligatoire)
-
-[4. L’administration peut-elle choisir n’importe quelle licence ?  2](#ladministration-peut-elle-choisir-nimporte-quelle-licence)
-
-[5. Quelle licence gratuite choisir ?  3](#quelle-licence-gratuite-choisir)
-
-[6. Que faire quand aucune licence listée ne convient ? : La procédure d’homologation 5](#que-faire-quand-aucune-licence-listée-ne-convient-la-procédure-dhomologation)
+1. [Introduction: les principes de libre réutilisation et de gratuité](#introduction-les-principes-de-libre-réutilisation-et-de-gratuité)
+2. [Pourquoi utiliser des licences de réutilisation ?](#pourquoi-utiliser-des-licences-de-réutilisation)
+3. [Est-ce obligatoire ?](#est-ce-obligatoire)
+4. [L’administration peut-elle choisir n’importe quelle licence ?](#ladministration-peut-elle-choisir-nimporte-quelle-licence)
+5. [Quelle licence gratuite choisir ?](#quelle-licence-gratuite-choisir)
+6. [Que faire quand aucune licence listée ne convient ? : La procédure d’homologation](#que-faire-quand-aucune-licence-listée-ne-convient-la-procédure-dhomologation)
 
 Ce guide a vocation à apporter un éclairage juridique et méthodologique à l’usage des licences de réutilisation de données publiques.
 
