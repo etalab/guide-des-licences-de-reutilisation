@@ -12,7 +12,7 @@ Ce guide est publié par Etalab sous [licence Ouverte 2.0](LICENCE.txt).
 3. [Est-ce obligatoire ?](#est-ce-obligatoire)
 4. [L’administration peut-elle choisir n’importe quelle licence ?](#ladministration-peut-elle-choisir-nimporte-quelle-licence)
 5. [Quelle licence gratuite choisir ?](#quelle-licence-gratuite-choisir)
-6. [Que faire quand aucune licence listée ne convient ? : La procédure d’homologation](#que-faire-quand-aucune-licence-listée-ne-convient-la-procédure-dhomologation)
+6. [Que faire quand aucune licence listée ne convient ? La procédure d’homologation](#que-faire-quand-aucune-licence-listée-ne-convientla-procédure-dhomologation)
 
 Ce guide a vocation à apporter un éclairage juridique et méthodologique à l’usage des licences de réutilisation de données publiques.
 
