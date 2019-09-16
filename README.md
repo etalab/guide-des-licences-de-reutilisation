@@ -205,8 +205,8 @@ La procédure, la liste des licences spécifiques homologuées, ainsi que les d�
 
 ## Pour les logiciels
 
-- La politique de contribution open source : <https://github.com/DISIC/politique-de-contribution-open-source/blob/master/ouverture.md>
+- [La politique de contribution open source](https://github.com/DISIC/politique-de-contribution-open-source/blob/master/ouverture.md)
 
-- Guide pratique pour l'ouverture des codes sources : <https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource.md>
+- [Guide pratique pour l'ouverture des codes sources](https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource.md)
 
-- Prioriser les ouvertures de code source : <https://github.com/etalab/ouverture-des-codes-sources-publics>
+- [Prioriser les ouvertures de code source](https://github.com/etalab/ouverture-des-codes-sources-publics)
