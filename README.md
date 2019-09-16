@@ -1,4 +1,5 @@
-**Guide des licences de réutilisation à destination des administrations**
+Guide des licences de réutilisation à destination des administrations
+====
 
 **Droits**
 
@@ -8,13 +9,13 @@ Ce guide est publié par Etalab sous [licence Ouverte 2.0](LICENCE.txt).
 
 [1. Introduction: les principes de libre réutilisation et de gratuité 1](#introduction-les-principes-de-libre-réutilisation-et-de-gratuité)
 
-[2. Pourquoi utiliser des licences de réutilisation ?  1](#pourquoi-utiliser-des-licences-de-réutilisation)
+[2. Pourquoi utiliser des licences de réutilisation ?  1](#pourquoi-utiliser-des-licences-de-réutilisation)
 
-[3. Est-ce obligatoire ? 2](#est-ce-obligatoire)
+[3. Est-ce obligatoire ? 2](#est-ce-obligatoire)
 
-[4. L’administration peut-elle choisir n’importe quelle licence ?  2](#ladministration-peut-elle-choisir-nimporte-quelle-licence)
+[4. L’administration peut-elle choisir n’importe quelle licence ?  2](#ladministration-peut-elle-choisir-nimporte-quelle-licence)
 
-[5. Quelle licence gratuite choisir ?  3](#quelle-licence-gratuite-choisir)
+[5. Quelle licence gratuite choisir ?  3](#quelle-licence-gratuite-choisir)
 
 [6. Que faire quand aucune licence listée ne convient ? : La procédure d’homologation 5](#que-faire-quand-aucune-licence-listée-ne-convient-la-procédure-dhomologation)
 
@@ -26,15 +27,13 @@ Il vise à :
 -   fournir aux administrations des éléments pour choisir une licence de réutilisation,
 -   préciser les conditions d’articulation entre les différentes licences.
 
-Introduction: les principes de libre réutilisation et de gratuité
-=================================================================
+# Introduction: les principes de libre réutilisation et de gratuité
 
-Depuis 2005, la loi a affirmé un droit de réutilisation des informations publiques[^1]. La réutilisation des informations publiques concerne à la fois les données publiques (« open data ») et les logiciels. Tout l’esprit de la réutilisation est d’être la plus libre possible, afin de multiplier les usages et de favoriser, ainsi, des usages nouveaux de ces données.
+Depuis 2005, la loi a affirmé un droit de réutilisation des informations publiques (Voir les articles L.321-1 et suivants du CRPA). La réutilisation des informations publiques concerne à la fois les données publiques (« open data ») et les logiciels. Tout l’esprit de la réutilisation est d’être la plus libre possible, afin de multiplier les usages et de favoriser, ainsi, des usages nouveaux de ces données.
 
-Depuis décembre 2015, la réutilisation gratuite constitue la règle. La perception de redevances est une exception dûment encadrée[^2]. En pratique, seules quelques administrations sont aujourd’hui autorisées à percevoir des redevances de réutilisation (dont l’IGN, le SHOM,…).
+Depuis décembre 2015, la réutilisation gratuite constitue la règle. La perception de redevances est une exception dûment encadrée (Voir les articles L.324-1 et suivants du CRPA). En pratique, seules quelques administrations sont aujourd’hui autorisées à percevoir des redevances de réutilisation (dont l’IGN, le SHOM,…).
 
-Pourquoi utiliser des licences de réutilisation ?
-=================================================
+# Pourquoi utiliser des licences de réutilisation ?
 
 Le recours aux licences est fixé par les articles L.323-1 du code des relations entre le public et l’administration (CRPA). Voir l’encadré en annexe.
 
@@ -56,8 +55,7 @@ La licence est aussi un outil de simplification de la relation entre l’adminis
 
 La licence est enfin un moyen de sécuriser la relation entre l’administration et le réutilisateur. Elle s’inscrit dans une visée de bonne administration destinée à prévenir les litiges. La licence permet, par exemple, de limiter, voire dégager la responsabilité de l’administration en cas de mauvaise utilisation de ses informations publiques.
 
-Est-ce obligatoire ?
-====================
+# Est-ce obligatoire ?
 
 L’établissement d’une licence est:
 
@@ -65,10 +63,9 @@ L’établissement d’une licence est:
 
 **Facultative**, quand la réutilisation est gratuite. Cependant, il est recommandé à l’ensemble des administrations de préciser sous quelle licence leurs données peuvent être réutilisées même en cas de réutilisation gratuite (le cas général).
 
-\[NB. Les administrations pouvant pratiquer des redevances peuvent établir plusieurs licences pour les mêmes données (une licence payante et une gratuite en fonction des usages).\]
+NB: Les administrations pouvant pratiquer des redevances peuvent établir plusieurs licences pour les mêmes données (une licence payante et une gratuite en fonction des usages).
 
-L’administration peut-elle choisir n’importe quelle licence ?
-=============================================================
+# L’administration peut-elle choisir n’importe quelle licence ?
 
 Pour les administrations autorisées à pratiquer des redevances, le choix des licences payantes est libre.
 
@@ -76,12 +73,11 @@ Le choix des licences de réutilisation gratuite est limité. Les administration
 
 Toutefois, de façon générale, quelle que soit la licence, celle-ci ne peut apporter de restrictions à la réutilisation que pour des motifs d’intérêt général et de façon proportionnée. Elle ne peut avoir pour objet ou pour effet de restreindre la concurrence. Aussi, le choix de la licence de doit pas être principalement motivé par la volonté de dissuader certains réutilisateurs ou de les orienter vers une offre payante.
 
-Quelle licence gratuite choisir ?
-=================================
+# Quelle licence gratuite choisir ?
 
-**Pour les données**
+## Pour les données
 
-*La **licence ouverte*** (LO) est la licence communément dénommée « open data ».
+La **licence ouverte** (LO) est la licence communément dénommée « open data ».
 
 Elle offre la liberté de réutilisation aux seules limites et conditions prévues par la loi.
 
@@ -99,7 +95,7 @@ La licence ouverte permet de couvrir l’ensemble des réutilisations de donnée
 
 En pratique, la licence ouverte est celle qui facilite la plus large réutilisation possible des données publiques. Selon le rapport remis par la députée Faure-Muntian sur les données géographiques souveraines, “le seul choix de licence compatible avec l’objectif de mettre en place une très large collaboration au sein de la sphère publique est une licence ouverte”.
 
-*La **licence ODbL*** (Open Database license) est destinée uniquement aux bases de données. Elle comprend une obligation de partage à l’identique (« share alike »)des enrichissements de la base de données.
+La **licence ODbL** (Open Database license) est destinée uniquement aux bases de données. Elle comprend une obligation de partage à l’identique (« share alike »)des enrichissements de la base de données.
 
 Sous licence ODbL, le réutilisateur est libre de réutiliser les Informations :
 
@@ -116,7 +112,7 @@ La licence ODbL est utilisée pour assurer l’entretien et la mise à jour de b
 
 Si le recours à la licence ODbL peut être pertinent pour certains types d’usages, il peut s’avérer problématique de par son caractère contaminant. Ainsi, quand des données sous licence ouverte viennent enrichir des données sous licence ODbL, ces enrichissements seraient soumis à la licence ODbL.
 
-**Pour les logiciels**
+## Pour les logiciels
 
 Il convient de rappeler que le cadre relatif aux licences fixé par le CRPA n’a lieu à s’appliquer que dans les cas où l’établissement de la licence appartient à l’administration et découle de son choix. Ce rappel est particulièrement important en cas de collaboration autours de développements logiciels.
 
@@ -142,8 +138,7 @@ Toutes ces licences garantissent la liberté d’exécuter le logiciel, la liber
 
 Dans la mesure où il limite la redistribution du code source, le recours à de telles licences devra, comme pour toute licence, être justifié par un motif d'intérêt général et être proportionné. Il ne devra pas avoir pour objet ou pour effet de porter atteinte à la concurrence.
 
-Que faire quand aucune licence listée ne convient ? : La procédure d’homologation
-=================================================================================
+# Que faire quand aucune licence listée ne convient ? La procédure d’homologation
 
 Si l’administration, pour des besoins spécifiques qui ne pourraient être couverts par les licences figurant dans le CRPA, souhaite établir une licence particulière, elle devra en demander préalablement l’homologation par l’Etat après avoir adressé une demande motivée à la DINSIC.
 
@@ -153,17 +148,15 @@ La décision d’homologation sera prononcée par décision du Premier ministre 
 
 La procédure, la liste des licences spécifiques homologuées, ainsi que les décisions d’homologation précisant le périmètre et la durée de l'homologation figurent sur la page dédiée et tenue à jour sur le site data.gouv.fr : <https://www.data.gouv.fr/fr/licences>
 
-**Annexes**
+# Annexes
 
-> **Ressources : **
+## Cadre juridique du CRPA applicable aux licences de réutilisation :
 
--   **Cadre juridique du CRPA applicable aux licences de réutilisation : **
-
-***Article L323-1***
+### Article L323-1
 
 *La réutilisation d'informations publiques peut donner lieu à l'établissement d'une licence. Cette licence est obligatoire lorsque la réutilisation est soumise au paiement d'une redevance.*
 
-***Article L323-2***
+### Article L323-2
 
 *Cette licence fixe les conditions de la réutilisation des informations publiques. Ces conditions ne peuvent apporter de restrictions à la réutilisation que pour des motifs d'intérêt général et de façon proportionnée. Elles ne peuvent avoir pour objet ou pour effet de restreindre la concurrence.*
 
@@ -173,7 +166,7 @@ La procédure, la liste des licences spécifiques homologuées, ainsi que les d�
 
 *Lorsque la réutilisation à titre gratuit donne lieu à l'établissement d'une licence, cette licence est choisie parmi celles figurant sur une liste fixée par décret, qui est révisée tous les cinq ans, après concertation avec les collectivités territoriales et leurs groupements.  Lorsqu'une administration souhaite recourir à une licence ne figurant pas sur cette liste, cette licence doit être préalablement homologuée par l'Etat, dans des conditions fixées par décret.*
 
-***Article D323-2-1***
+### Article D323-2-1
 
 *I. - L'administration peut soumettre la réutilisation à titre gratuit des informations publiques qu'elle détient aux licences suivantes :*
 
@@ -189,7 +182,7 @@ La procédure, la liste des licences spécifiques homologuées, ainsi que les d�
 
 *Les licences susmentionnées sont accessibles en ligne, dans leur version en vigueur, sur le site internet : http://www.data.gouv.fr.*
 
-***Article D323-2-2***
+### Article D323-2-2
 
 *I.-L'administration qui souhaite recourir à une licence qui ne figure pas à l'article D. 323-2-1 adresse à la direction interministérielle des systèmes d'information et de communication de l'Etat une demande d'homologation de la licence qu'elle souhaite mettre en œuvre. Cette homologation est prononcée par décision du Premier ministre pour les seules informations publiques qui constituent l'objet de la demande.*
 
@@ -205,31 +198,20 @@ La procédure, la liste des licences spécifiques homologuées, ainsi que les d�
 
 *IV.-La décision est prise dans un délai de deux mois à compter de la réception de la demande. Les décisions de refus d'homologation sont motivées.*
 
-*V.-La licence homologuée ainsi que la description des informations publiques pour lesquelles cette homologation a été accordée sont rendues accessibles en ligne, dans leur version en vigueur, sur le site internet
-: http://www.data.gouv.fr.*
+*V.-La licence homologuée ainsi que la description des informations publiques pour lesquelles cette homologation a été accordée sont rendues accessibles en ligne, dans leur version en vigueur, sur le site internet: http://www.data.gouv.fr.*
 
--   **“Licence Ouverte”** Etalab :
+## “Licence Ouverte”** Etalab
 
     [*https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf*](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
 
--   **Matériel de formation sur le portail européen des données** : session sur les licences (en anglais) :
+## Matériel de formation sur le portail européen des données** : session sur les licences (en anglais)
 
 > [*https://www.europeandataportal.eu/fr/resources/training-companion/open-data-licensing*](https://www.europeandataportal.eu/fr/resources/training-companion/open-data-licensing)
 
--   **Pour les logiciels** :
+## Pour les logiciels
 
-> **La politique de contribution open source** :
->
-> https://github.com/DISIC/politique-de-contribution-open-source/blob/master/ouverture.md
->
-> **Guide pratique pour l'ouverture des codes sources** :
->
-> <https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource.md>
->
-> **Prioriser les ouvertures de code source : **
->
-> [https://github.com/etalab/ouverture-des-codes-sources-publics](https://github.com/etalab/ouverture-des-codes-sources-publics%20)
+- La politique de contribution open source : <https://github.com/DISIC/politique-de-contribution-open-source/blob/master/ouverture.md>
 
-[^1]: Voir les articles L.321-1 et suivants du CRPA
+- Guide pratique pour l'ouverture des codes sources : <https://github.com/entrepreneur-interet-general/eig-link/blob/master/opensource.md>
 
-[^2]: Voir les articles L.324-1 et suivants du CRPA
+- Prioriser les ouvertures de code source : <https://github.com/etalab/ouverture-des-codes-sources-publics>
